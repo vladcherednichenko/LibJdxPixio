@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/723e50621e3d834024ccbb6d75fee391/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f124eeb63f46fd3d47f7bbcc70044a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cffb0a2b27bbafbae5b89cba4212714f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/29ac2fdd5dd0a50f2351756bf6a06ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1f00cba3650bc994559e0b9a256f80a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff73926f07eea1499677fe1b7065f9b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c8ec9780ceb20273475329080c4f95f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eaf3868503b355f7545bb530f8c1b467/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4e4f45e144c8464a40ab53859ab8f8a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8eb4cd4c4fc579e5d54a2324db722712/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e1ed0e18512dd9820b6411dc231b75b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bc3a438e3a20b34e4990f98487664d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76052b8e3082b20e4fdb9eef152c3bdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3988371f6cbf554f95311165fc7aa667/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61b4196e9757e24ce352ba081f2db7b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b49fc0d581fec8c848305ce14907d45e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/61253e6314bfb7a6a704e89eff70e113/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/86c842f6fe87f72e572c5542c345b2b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1177e34be82258788b8f90b4eb5128d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac0c402210d2edc2afa0e75c9334af0b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d09f5cd015b1b3063f722686c9dea9fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05d72266d90c9c6466c17f650583d32e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0fcf6cdcae1042f3c706952aca90d33b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ca2cd884e970de1b96a7e9f3cab1a76f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77c8458ad7a224e6874f317c7333b766/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/183e7cb76a6157e13b1af4909df429c1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b49fc0d581fec8c848305ce14907d45e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b49fc0d581fec8c848305ce14907d45e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:9:9-40
+activity#test.pixiolibgdx.game.AndroidLauncher
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:10:9-19:20
+	android:screenOrientation
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:14:13-50
+	android:label
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:13:13-45
+	android:configChanges
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:12:13-107
+	android:name
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:11:13-44
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:16:25-66
+activity#test.pixiolibgdx.game.StartingActivity
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:20:9-27:20
+	android:theme
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:20:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:22:13-26:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/723e50621e3d834024ccbb6d75fee391/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/723e50621e3d834024ccbb6d75fee391/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f124eeb63f46fd3d47f7bbcc70044a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f124eeb63f46fd3d47f7bbcc70044a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cffb0a2b27bbafbae5b89cba4212714f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cffb0a2b27bbafbae5b89cba4212714f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/29ac2fdd5dd0a50f2351756bf6a06ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/29ac2fdd5dd0a50f2351756bf6a06ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1f00cba3650bc994559e0b9a256f80a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1f00cba3650bc994559e0b9a256f80a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff73926f07eea1499677fe1b7065f9b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ff73926f07eea1499677fe1b7065f9b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c8ec9780ceb20273475329080c4f95f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c8ec9780ceb20273475329080c4f95f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eaf3868503b355f7545bb530f8c1b467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eaf3868503b355f7545bb530f8c1b467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4e4f45e144c8464a40ab53859ab8f8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4e4f45e144c8464a40ab53859ab8f8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8eb4cd4c4fc579e5d54a2324db722712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8eb4cd4c4fc579e5d54a2324db722712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e1ed0e18512dd9820b6411dc231b75b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e1ed0e18512dd9820b6411dc231b75b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bc3a438e3a20b34e4990f98487664d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bc3a438e3a20b34e4990f98487664d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76052b8e3082b20e4fdb9eef152c3bdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/76052b8e3082b20e4fdb9eef152c3bdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3988371f6cbf554f95311165fc7aa667/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3988371f6cbf554f95311165fc7aa667/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61b4196e9757e24ce352ba081f2db7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/61b4196e9757e24ce352ba081f2db7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b49fc0d581fec8c848305ce14907d45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b49fc0d581fec8c848305ce14907d45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/61253e6314bfb7a6a704e89eff70e113/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/61253e6314bfb7a6a704e89eff70e113/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/86c842f6fe87f72e572c5542c345b2b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/86c842f6fe87f72e572c5542c345b2b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1177e34be82258788b8f90b4eb5128d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1177e34be82258788b8f90b4eb5128d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac0c402210d2edc2afa0e75c9334af0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac0c402210d2edc2afa0e75c9334af0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d09f5cd015b1b3063f722686c9dea9fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d09f5cd015b1b3063f722686c9dea9fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05d72266d90c9c6466c17f650583d32e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/05d72266d90c9c6466c17f650583d32e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0fcf6cdcae1042f3c706952aca90d33b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0fcf6cdcae1042f3c706952aca90d33b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ca2cd884e970de1b96a7e9f3cab1a76f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ca2cd884e970de1b96a7e9f3cab1a76f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77c8458ad7a224e6874f317c7333b766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77c8458ad7a224e6874f317c7333b766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/183e7cb76a6157e13b1af4909df429c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/183e7cb76a6157e13b1af4909df429c1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
+		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
