@@ -13,7 +13,7 @@ public class AndroidLauncher extends AndroidApplication {
 		super.onCreate(savedInstanceState);
 		setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
+		config.numSamples = 4;
 		initialize(new PixioLibgdx(), config);
-		config.numSamples = 2;
 	}
 }

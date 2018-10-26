@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/723e50621e3d834024ccbb6d75fee391/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f124eeb63f46fd3d47f7bbcc70044a/AndroidManifest.xml:17:1-22:12
@@ -32,25 +32,25 @@ MERGED from [com.android.support:documentfile:28.0.0] /Users/vladyslav/.gradle/c
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ca2cd884e970de1b96a7e9f3cab1a76f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77c8458ad7a224e6874f317c7333b766/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/183e7cb76a6157e13b1af4909df429c1/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
-		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
-		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:5:5-28:19
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/6d9a7d0d9c36fafb66c1804ae3e329de/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/vladyslav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e7540a0e83b63e7dc0fa2eb4fcbe645/AndroidManifest.xml:22:5-94
@@ -77,24 +77,24 @@ ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:10:9
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:12:13-107
 	android:name
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:11:13-44
-intent-filter#action:name:android.intent.action.MAIN
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
 ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:16:17-69
 	android:name
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:17:27-74
 activity#test.pixiolibgdx.game.StartingActivity
-ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:20:9-27:20
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:20:9-26:20
 	android:theme
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:21:13-63
 	android:name
 		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:20:19-51
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:22:13-26:29
-category#android.intent.category.LAUNCHER
-ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:25:17-77
-	android:name
-		ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:25:27-74
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml:22:13-25:29
 uses-sdk
 INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/vladyslav/Desktop/LibGdxPixio/android/AndroidManifest.xml

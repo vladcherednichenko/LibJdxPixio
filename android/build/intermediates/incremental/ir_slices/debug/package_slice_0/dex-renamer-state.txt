@@ -1,4 +1,4 @@
-#Thu Oct 18 20:00:15 EET 2018
+#Wed Oct 24 17:15:40 EET 2018
 base.0=/Users/vladyslav/Desktop/LibGdxPixio/android/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
